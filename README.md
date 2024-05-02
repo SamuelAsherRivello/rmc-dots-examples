@@ -1,4 +1,4 @@
-# Unity Project With Included RMC DOTS Library & Examples
+# RMC DOTS Library & Examples (Includes a Unity Project To Work Within)
 
 This is the **fastest** way to create a new Unity Dots Project.
 
