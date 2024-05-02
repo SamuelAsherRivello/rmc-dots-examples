@@ -39,8 +39,8 @@ Created By
 =============
 
 - Samuel Asher Rivello 
-- Over 23 years XP with game development (2023)
-- Over 10 years XP with Unity (2023)
+- Over 25 years XP with game development (2024)
+- Over 11 years XP with Unity (2024)
 
 Contact
 =============
