@@ -2,11 +2,18 @@
 
 This is the **fastest** way to create a new Unity Dots Project.
 
+### RMC DOTS Library Project
 1. Checkout this repo
 2. Open the Unity Hub. Install this [Version](./Unity/ProjectSettings/ProjectVersion.txt) of the Unity Editor
 3. Open the `/Unity/` folder from this repo to open the Unity project
 4. Enjoy!
-5. Optional. To import the RMC Dots Library examples, see [ReadMe](./Unity/Assets/ReadMe.txt)
+
+### RMC DOTS Library Project
+1. Follow the steps above
+2. To import the RMC Dots Library examples, see [ReadMe](./Unity/Assets/ReadMe.txt)
+
+<img src="https://media.githubusercontent.com/media/SamuelAsherRivello/rmc-dots/486cbed228c68b64493305ee12d7faa39a2fbc98/RMC%20DOTS/Documentation/Images/rmc-dots-examples-screenshot.jpg" width = "400px" />
+
 
 ## Configuration
 
