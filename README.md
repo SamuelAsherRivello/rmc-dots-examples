@@ -2,6 +2,10 @@
 
 This is the **fastest** way to create a new Unity Dots Project.
 
+1. This repo contains the RMC DOTS Library & Examples (And includes a Unity Project). Follow the instructions below.
+1. Or if you want **only** the RMC DOTS Library & Examples see [https://github.com/SamuelAsherRivello/rmc-dots/](https://github.com/SamuelAsherRivello/rmc-dots/).
+
+
 **Contents**
 * A complete, empty Unity Project...
 * With all Unity ECS Packages added
