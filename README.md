@@ -19,7 +19,6 @@ This is the **fastest** way to create a new Unity Dots Project.
 
 **Documentation**
 * `ReadMe.md` - The primary documentation for this repo
-* `Unity/Assets/Documentation/ReadMe.asset` - Select this asset in Unity to get started
 
 **Configuration**
 * `Unity Target` - [Standalone MAC/PC](https://support.unity.com/hc/en-us/articles/206336795-What-platforms-are-supported-by-Unity-)
