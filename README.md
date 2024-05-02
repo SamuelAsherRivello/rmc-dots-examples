@@ -1,10 +1,34 @@
-# Private Wrapper of public library "RMC DOTS"
+# RMC DOTS Library - Examples
 
-The wrapper can be opened in Unity directly for active development of the public library.
+This is the **fastest** way to create a new Unity Dots Project.
 
-Via "Loaded From Disk" it pulls https://github.com/SamuelAsherRivello/rmc-dots
+1. Checkout this repo
+2. Open the Unity Hub. Install this [Version](./Unity/ProjectSettings/ProjectVersion.txt) of the Unity Editor
+3. Open the `/Unity/` folder from this repo to open the Unity project
+4. Enjoy!
+5. Optional. To import the RMC Dots Library examples, see [ReadMe](./Unity/Assets/ReadMe.txt)
 
-REMEMBER: Commit EACH of the 2 repos as file are separate.
+## Configuration
+
+**Documentation**
+* `ReadMe.md` - The primary documentation for this repo
+* `Unity/Assets/Documentation/ReadMe.asset` - Select this asset in Unity to get started
+
+**Configuration**
+* `Unity Target` - [Standalone MAC/PC](https://support.unity.com/hc/en-us/articles/206336795-What-platforms-are-supported-by-Unity-)
+* `Unity Version` - Use this [Version](./Unity/ProjectSettings/ProjectVersion.txt)
+* `Unity Rendering` - [Universal Render Pipeline (URP)](https://docs.unity3d.com/Manual/universal-render-pipeline.html)
+* `Unity Aspect Ratio` - [Game View 10x16](https://docs.unity3d.com/Manual/GameView.html)
+
+**Structure**
+* `Unity` - Open this folder in the Unity Editor
+* `Unity/Assets/Game/` - Several game versions exist. Open any Scene. Press 'Play'!
+* `Unity/Assets/Shared/` - These are shared assets used across several game versions.
+
+**Dependencies**
+* `Various` - Already included via [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) as this [Version](./Unity/Packages/manifest.json)
+
+
 
 Created By
 =============
