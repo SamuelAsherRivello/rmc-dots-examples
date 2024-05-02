@@ -28,8 +28,7 @@ This is the **fastest** way to create a new Unity Dots Project.
 
 **Structure**
 * `Unity` - Open this folder in the Unity Editor
-* `Unity/Assets/Game/` - Several game versions exist. Open any Scene. Press 'Play'!
-* `Unity/Assets/Shared/` - These are shared assets used across several game versions.
+* `Unity/Assets/` - Work within here to build your game
 
 **Dependencies**
 * `Various` - Already included via [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui.html) as this [Version](./Unity/Packages/manifest.json)
