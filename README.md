@@ -1,6 +1,16 @@
-# RMC DOTS Library - Examples
+# RMC DOTS Library & Examples<BR>(Includes Unity Project)
+<BR>
 
-This is the **fastest** way to create a new Unity Dots Project.
+This repo is the **fastest** way to create a new Unity Dots Project.
+
+<BR>
+<BR>
+
+|                                                           | Includes<BR>Library  | Includes<BR>Library   | Includes<BR>Unity Project  | More<BR>Info  |
+|------------------------------------------------------------|--------------------|------------------------|----------------------------|---------------|
+| RMC DOTS Library & Examples<BR>(Includes NO Unity Project)    | ✔️                 | ✔️                    | ❌                         | See [rmc-dots](https://github.com/SamuelAsherRivello/rmc-dots/)    |
+| RMC DOTS Library & Examples<BR>(Includes Unity Project)       | ✔️                 | ✔️                    | ✔️                         | See below     |
+
 
 ### RMC DOTS Library Project
 1. Checkout this repo
@@ -8,7 +18,7 @@ This is the **fastest** way to create a new Unity Dots Project.
 3. Open the `/Unity/` folder from this repo to open the Unity project
 4. Enjoy!
 
-### RMC DOTS Library Project
+### RMC DOTS Library Examples
 1. Follow the steps above
 2. To import the RMC Dots Library examples, see [ReadMe](./Unity/Assets/ReadMe.txt)
 
@@ -50,6 +60,8 @@ Contact
 - Git - <a href="https://github.com/SamuelAsherRivello/">Github.com/SamuelAsherRivello</a>
 - LinkedIn - <a href="https://Linkedin.com/in/SamuelAsherRivello">Linkedin.com/in/SamuelAsherRivello</a> <--- Say Hello! :)
 
+License
+=============
 
-
+Provided as-is under MIT License | Copyright © 2024 Rivello Multimedia Consulting, LLC
 
