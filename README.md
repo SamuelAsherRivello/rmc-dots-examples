@@ -6,10 +6,10 @@ This repo is the **fastest** way to create a new Unity Dots Project.
 <BR>
 <BR>
 
-|                                                           | Includes<BR>Library  | Includes<BR>Library   | Includes<BR>Unity Project  | More<BR>Info  |
-|------------------------------------------------------------|--------------------|------------------------|----------------------------|---------------|
-| RMC DOTS Library & Examples<BR>(Includes NO Unity Project)    | ✔️                 | ✔️                    | ❌                         | See [rmc-dots](https://github.com/SamuelAsherRivello/rmc-dots/)    |
-| RMC DOTS Library & Examples<BR>(Includes Unity Project)       | ✔️                 | ✔️                    | ✔️                         | See below     |
+|                                                            | Includes<BR>Unity DOTS | Includes<BR>RMC DOTS Library   | Includes<BR>Unity Project  | More<BR>Info  |
+|------------------------------------------------------------|------------------------|--------------------------------|----------------------------|---------------|
+| RMC DOTS Library & Examples<BR>(Includes NO Unity Project) | ✔️                     | ✔️                            | ❌                         | See [rmc-dots](https://github.com/SamuelAsherRivello/rmc-dots/)    |
+| RMC DOTS Library & Examples<BR>(Includes Unity Project)    | ✔️                     | ✔️                            | ✔️                         | See below     |
 
 
 ### RMC DOTS Library Project
