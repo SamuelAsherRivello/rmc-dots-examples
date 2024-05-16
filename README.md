@@ -56,12 +56,16 @@ Contact
 =============
 
 - Twitter - <a href="https://twitter.com/srivello/">@srivello</a>
-- Resume & Portfolio - <a href="http://www.SamuelAsherRivello.com">SamuelAsherRivello.com</a>
 - Git - <a href="https://github.com/SamuelAsherRivello/">Github.com/SamuelAsherRivello</a>
+- Resume & Portfolio - <a href="http://www.SamuelAsherRivello.com">SamuelAsherRivello.com</a>
 - LinkedIn - <a href="https://Linkedin.com/in/SamuelAsherRivello">Linkedin.com/in/SamuelAsherRivello</a> <--- Say Hello! :)
+
 
 License
 =============
 
 Provided as-is under MIT License | Copyright © 2024 Rivello Multimedia Consulting, LLC
+
+
+
 
