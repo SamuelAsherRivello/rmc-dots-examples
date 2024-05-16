@@ -18,12 +18,12 @@ TagManager:
   - Projectile
   - Goal
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - Bullet
+  - Gem
+  - Wall
+  - Floor
+  - Droplet
   - 
   - 
   - 
