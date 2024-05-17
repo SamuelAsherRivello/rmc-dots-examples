@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.annulusgames.magic-tween": {
+      "version": "https://github.com/AnnulusGames/MagicTween.git?path=/MagicTween/Assets/MagicTween",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0a5b840044d206002b01f4f48f908592596e08b4"
+    },
     "com.rmc.rmc-dots": {
       "version": "https://github.com/SamuelAsherRivello/rmc-dots.git",
       "depth": 0,
@@ -7,7 +14,7 @@
       "dependencies": {
         "com.rmc.rmc-readme": "1.2.2"
       },
-      "hash": "575847c89f02aa746415162d791b8134817be72d"
+      "hash": "3cf3fc623b0b9891002b1e25639c30c39e207ec0"
     },
     "com.rmc.rmc-readme": {
       "version": "1.2.2",
