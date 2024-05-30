@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PackedCellScene.unity
     guid: 7f6e02c94e29c46c49034691ff45021a
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 69c1c67ff1037964dbc3d7bcd3ac0374,
+      type: 2}
