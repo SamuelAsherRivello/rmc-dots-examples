@@ -8,7 +8,7 @@ using UnityEditor;
 public class DeleteAllExample 
 {
     [MenuItem("Examples/EditorPrefs/Clear all Editor Preferences")]
-    static void deleteAllExample()
+    static void DeleteEditorPrefs()
     {
         if (EditorUtility.DisplayDialog("Delete all editor preferences.",
             "Are you sure you want to delete all the editor preferences? " +
